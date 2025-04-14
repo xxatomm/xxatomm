@@ -7,7 +7,7 @@ Soy un **Profesional de la Seguridad de la Información** con experiencia en la 
 - **Gestión de riesgos**: Identificación, evaluación y mitigación de riesgos cibernéticos.
 - **Cifrado y protección de datos**: Implementación de técnicas avanzadas de encriptación y control de acceso.
 - **Evaluaciones de vulnerabilidad**: Realización de auditorías de seguridad, pruebas de penetración y análisis de vulnerabilidades.
-- **Cumplimiento normativo**: Conocimiento profundo de normativas como GDPR, CCPA, PCI-DSS, ISO 27001.
+- **Cumplimiento normativo**: Conocimiento profundo de normativas como GDPR, CCPA, PCI-DSS, ISO 27001:2022.
 - **Seguridad de redes**: Diseño y configuración de redes seguras, firewalls, y control de tráfico de red.
 
 ## 🛡️ Tecnologías y Herramientas
