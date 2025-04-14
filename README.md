@@ -27,7 +27,7 @@ Soy un **Profesional de la Seguridad de la Información** con experiencia en la 
 - Creación de un sistema de monitorización para detectar actividades sospechosas en la red.
 - **Tecnologías**: Nagios, Splunk, Suricata.
 
-### [Proyecto 3: Cumplimiento de Normativas ISO 27001](https://github.com/xxatomm/iso-27001-compliance)
+### [Proyecto 3: Cumplimiento de Normativas ISO 27001:2022](https://github.com/xxatomm/iso-27001-compliance)
 - Proyecto para lograr la certificación ISO 27001 en una organización.
 - **Tecnologías**: Políticas de seguridad, auditorías internas, informes de cumplimiento.
 
@@ -37,9 +37,8 @@ Soy un **Profesional de la Seguridad de la Información** con experiencia en la 
 
 ## 📧 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/alessandro/)
-- [Twitter](https://twitter.com/alessandro)
-- [Email](mailto:alessandro@example.com)
+- [Instagram](https://www.instagram.com/alessandro___3112?igsh=MW1semp3M2dmMGxiMg==)
+- [Email](mailto:alessandromg213314312@hotmail.com)
 
 ---
 
