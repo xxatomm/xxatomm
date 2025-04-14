@@ -16,7 +16,7 @@ jobs:
 
       - name: Pac-Man Contributions
         run: |
-          curl -L https://github.com/marcojakob/pacman-github-action/archive/refs/heads/main.zip -o pacman.zip
+          curl -L https://github.com/PacHub/pachub/archive/refs/heads/master.zip -o pacman.zip
           unzip pacman.zip
-          cd pacman-github-action-main
-          bash pacman.sh
+          cd pachub-master  # Asegúrate de que esta sea la carpeta correcta después de descomprimir
+          bash pachub.sh
