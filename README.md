@@ -4,33 +4,46 @@ Soy un Profesional de la Seguridad de la Información con experiencia en la impl
 
 Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiva, dedicándome a asegurar infraestructuras y aplicaciones en línea contra posibles amenazas, mitigar riesgos y garantizar la privacidad. La programación no solo complementa mi perfil, sino que también me permite desarrollar soluciones innovadoras adaptadas a los desafíos del entorno de la ciberseguridad.
 
-## 🔐 Habilidades en Seguridad de la Información
+## 🔐 Habilidades
 
-- **Gestión de riesgos**: Identificación, evaluación y mitigación de riesgos cibernéticos.
-- **Cifrado y protección de datos**: Implementación de técnicas avanzadas de encriptación y control de acceso.
-- **Evaluaciones de vulnerabilidad**: Realización de auditorías de seguridad, pruebas de penetración y análisis de vulnerabilidades.
-- **Cumplimiento normativo**: Conocimiento profundo de normativas como GDPR, CCPA, PCI-DSS, ISO 27001:2022.
-- **Seguridad de redes**: Diseño y configuración de redes seguras, firewalls, y control de tráfico de red.
+- **Gestión de servicios TI**: Experiencia en estándares ISO 20000-1 para alinear TI con negocio
+- **Implementación de SGSI**: Conocimiento en despliegue y auditoría de ISO 27001
+- **Evaluaciones de vulnerabilidad**: Auditorías de seguridad, pentesting y análisis de riesgos
+- **Desarrollo con React.js (frontend), Django (Python) y Express.js (Node.js)**: Creando aplicaciones web escalables, RESTful APIs y soluciones personalizadas
 
 ## 🛡️ Tecnologías y Herramientas
 
-- **Ciberseguridad**: ![Wireshark](https://img.shields.io/badge/Wireshark-1679A6?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C88?style=for-the-badge&logo=kali&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-6E1B1B?style=for-the-badge&logo=metasploit&logoColor=white)
-- **Protección de Datos**: ![PGP](https://img.shields.io/badge/PGP-0A63B6?style=for-the-badge&logo=gnupg&logoColor=white) ![AES](https://img.shields.io/badge/AES-1C1C1C?style=for-the-badge&logo=cryptography&logoColor=white)
-- **Redes y Firewalls**: ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-7CFC00?style=for-the-badge&logo=openvpn&logoColor=white)
-- **Automatización y Monitoreo**: ![Splunk](https://img.shields.io/badge/Splunk-00A3FF?style=for-the-badge&logo=splunk&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+- **Gestión de Servicios TI**: 
+  ![ISO 20000](https://img.shields.io/badge/ISO%2020000-1-004584?style=for-the-badge&logo=iso&logoColor=white)
+  ![ITIL](https://img.shields.io/badge/ITIL-0F7DC2?style=for-the-badge&logo=itil&logoColor=white)
+
+- **Seguridad de la Información**: 
+  ![ISO 27001](https://img.shields.io/badge/ISO%2027001-004584?style=for-the-badge&logo=iso&logoColor=white)
+  ![GDPR](https://img.shields.io/badge/GDPR-1C3AA9?style=for-the-badge&logo=gdpr&logoColor=white)
+
+- **Evaluación de Vulnerabilidades**: 
+  ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+  ![Pentesting](https://img.shields.io/badge/Pentesting-FF6D00?style=for-the-badge&logo=metasploit&logoColor=white)
+
+- **Desarrollo Full-Stack**: 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 💻 Proyectos Relacionados con Seguridad
 
-### [Proyecto 1: Seguridad de Aplicaciones Web](https://github.com/xxatomm/webapp-security)
+### [Proyecto 1: Seguimiento de la norma ISO 27001:2022 e ISO 45001:2018]
 - Implementación de medidas de seguridad en aplicaciones web.
-- **Tecnologías**: OWASP, Secure coding practices, Penetration testing.
+- **Tecnologías**: React y Express JS
 
-### [Proyecto 2: Monitorización de Red y Prevención de Intrusiones](https://github.com/xxatomm/network-monitoring)
-- Creación de un sistema de monitorización para detectar actividades sospechosas en la red.
-- **Tecnologías**: Nagios, Splunk, Suricata.
+### [Proyecto 2: Reconocimiento de objetos]
+- Creación de aplicación web que indica los objetos que aparecen una camara XNO-6120R
+- **Tecnologías**: React y Express JS
 
-### [Proyecto 3: Cumplimiento de Normativas ISO 27001:2022](https://github.com/xxatomm/iso-27001-compliance)
-- Proyecto para lograr la certificación ISO 27001 en una organización.
+### [Proyecto 3: Pagina principal empresa IM&RA]
+- Se elaboro una propuesta para la pagina principal de la empresa IM&RA CORE BUSINESS pendiente de subir al dominio
 - **Tecnologías**: Políticas de seguridad, auditorías internas, informes de cumplimiento.
 
 ## 📊 Estadísticas de GitHub
@@ -44,4 +57,4 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
 
 ---
 
-Gracias por visitar mi perfil. Si estás interesado en colaborar en proyectos relacionados con **Ciberseguridad**, **Protección de Datos**, o **Auditorías de Seguridad**, ¡no dudes en contactarme! 🚀
+Gracias por visitar mi perfil. Si estás interesado en colaborar en proyectos relacionados con **Ciberseguridad**, **Creación de aplicaciones web**, o **Auditorías Internas**, ¡no dudes en contactarme! 🚀
