@@ -14,12 +14,11 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
 ## 🛡️ Tecnologías y Herramientas
 
 - **Gestión de Servicios TI**: 
-  ![ISO 20000](https://img.shields.io/badge/ISO%2020000-1-004584?style=for-the-badge&logo=iso&logoColor=white)
+  ![ISO 20000:2018](https://img.shields.io/badge/ISO%2020000-1-004584?style=for-the-badge&logo=iso&logoColor=white)
   ![ITIL](https://img.shields.io/badge/ITIL-0F7DC2?style=for-the-badge&logo=itil&logoColor=white)
 
 - **Seguridad de la Información**: 
-  ![ISO 27001](https://img.shields.io/badge/ISO%2027001-004584?style=for-the-badge&logo=iso&logoColor=white)
-  ![GDPR](https://img.shields.io/badge/GDPR-1C3AA9?style=for-the-badge&logo=gdpr&logoColor=white)
+  ![ISO 27001:2022](https://img.shields.io/badge/ISO%2027001-004584?style=for-the-badge&logo=iso&logoColor=white)
 
 - **Evaluación de Vulnerabilidades**: 
   ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
