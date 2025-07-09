@@ -24,7 +24,7 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
   ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
   ![Pentesting](https://img.shields.io/badge/Pentesting-FF6D00?style=for-the-badge&logo=metasploit&logoColor=white)
 
-- **Desarrollo Full-Stack**: 
+- **Desarrollo**: 
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
