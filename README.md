@@ -1,6 +1,8 @@
 # ¡Hola, soy Alessandro! 👋
 
-Soy un **Profesional de la Seguridad de la Información** con experiencia en la implementación de medidas de protección en entornos digitales. Me apasiona la ciberseguridad, la gestión de riesgos y la protección de datos. Me dedico a asegurar la infraestructura y las aplicaciones en línea contra posibles amenazas, utilizando un enfoque proactivo para mitigar riesgos y mantener la privacidad.
+Soy un Profesional de la Seguridad de la Información con experiencia en la implementación de medidas de protección en entornos digitales. Me apasiona la ciberseguridad, la gestión de riesgos y la protección de datos, así como la programación, habilidad que aplico activamente en mi trabajo para optimizar procesos, automatizar tareas y fortalecer la seguridad de sistemas y aplicaciones.
+
+Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiva, dedicándome a asegurar infraestructuras y aplicaciones en línea contra posibles amenazas, mitigar riesgos y garantizar la privacidad. La programación no solo complementa mi perfil, sino que también me permite desarrollar soluciones innovadoras adaptadas a los desafíos del entorno de la ciberseguridad.
 
 ## 🔐 Habilidades en Seguridad de la Información
 
