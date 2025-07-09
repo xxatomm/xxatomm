@@ -6,8 +6,8 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
 
 ## 🔐 Habilidades
 
-- **Gestión de servicios TI**: Experiencia en estándares ISO 20000-1 para alinear TI con negocio
-- **Implementación de SGSI**: Conocimiento en despliegue y auditoría de ISO 27001
+- **Gestión de servicios TI**: Experiencia en estándares ISO 20000-1:2018 para alinear TI con negocio
+- **Implementación de SGSI**: Conocimiento en despliegue y auditoría de ISO 27001:2022
 - **Evaluaciones de vulnerabilidad**: Auditorías de seguridad, pentesting y análisis de riesgos
 - **Desarrollo con React.js (frontend), Django (Python) y Express.js (Node.js)**: Creando aplicaciones web escalables, RESTful APIs y soluciones personalizadas
 
