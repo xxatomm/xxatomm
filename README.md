@@ -31,7 +31,7 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 💻 Proyectos Relacionados con Seguridad
+## 💻 Ultimos proyectos
 
 ### [Proyecto 1: Seguimiento de la norma ISO 27001:2022 e ISO 45001:2018]
 - Creación de aplicación web que permite el seguimiento de cumplimiento de la ISO 27001:2022 e ISO 45001:2018
