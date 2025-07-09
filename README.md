@@ -41,10 +41,6 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
 - Desarrollo de una aplicación web capaz de identificar objetos en tiempo real utilizando la cámara XNO-6120R
 - **Tecnologías**: React y Express.js
 
-### [Proyecto 3: Pagina principal empresa IM&RA]
-- Diseño y elaboración de una propuesta para la página web principal de IM&RA CORE BUSINESS, pendiente de implementación en el dominio.
-- **Tecnologías**: React
-
 ## 📧 Contacto
 
 - [Instagram](https://www.instagram.com/alessandro___3112?igsh=MW1semp3M2dmMGxiMg==)
