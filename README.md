@@ -33,15 +33,15 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
 
 ## 💻 Ultimos proyectos
 
-### [Proyecto 1: Seguimiento de la norma ISO 27001:2022 e ISO 45001:2018]
+### [Proyecto 1: Seguimiento de la norma ISO 27001:2022 e ISO 45001:2018] Private repository
 - Creación de aplicación web que permite el seguimiento de cumplimiento de la ISO 27001:2022 e ISO 45001:2018
 - **Tecnologías**: React y Express.js
 
-### [Proyecto 2: Reconocimiento de objetos]
+### [Proyecto 2: Reconocimiento de objetos] Private repository
 - Desarrollo de una aplicación web capaz de identificar objetos en tiempo real utilizando la cámara XNO-6120R
 - **Tecnologías**: React y Express.js
 
-### [Proyecto 3: Pagina principal empresa IM&RA]
+### [Proyecto 3: Pagina principal empresa IM&RA] Private repository
 - Diseño y elaboración de una propuesta para la página web principal de IM&RA CORE BUSINESS, pendiente de implementación en el dominio.
 - **Tecnologías**: React
 
