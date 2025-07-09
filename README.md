@@ -31,17 +31,17 @@ Mi enfoque combina un profundo conocimiento técnico con una mentalidad proactiv
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 💻 Ultimos proyectos
+## 💻 Ultimos proyectos (Private repository)
 
-### [Proyecto 1: Seguimiento de la norma ISO 27001:2022 e ISO 45001:2018] Private repository
+### [Proyecto 1: Seguimiento de la norma ISO 27001:2022 e ISO 45001:2018]
 - Creación de aplicación web que permite el seguimiento de cumplimiento de la ISO 27001:2022 e ISO 45001:2018
 - **Tecnologías**: React y Express.js
 
-### [Proyecto 2: Reconocimiento de objetos] Private repository
+### [Proyecto 2: Reconocimiento de objetos]
 - Desarrollo de una aplicación web capaz de identificar objetos en tiempo real utilizando la cámara XNO-6120R
 - **Tecnologías**: React y Express.js
 
-### [Proyecto 3: Pagina principal empresa IM&RA] Private repository
+### [Proyecto 3: Pagina principal empresa IM&RA]
 - Diseño y elaboración de una propuesta para la página web principal de IM&RA CORE BUSINESS, pendiente de implementación en el dominio.
 - **Tecnologías**: React
 
